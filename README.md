@@ -31,7 +31,7 @@ User Voice → Speech-to-Text → AI Response → Murf Falcon TTS → Voice Outp
 
 Clone the repository
 
-git clone https://github.com/yourusername/vocalmind-ai.git
+git clone https://github.com/Jathin-stack/vocalmind-ai.git
 
 Install dependencies
 
